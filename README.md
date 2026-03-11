@@ -51,18 +51,12 @@ class KalielAquino:
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=guilhermeanitelli&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&locale=pt-br" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeanitelli&theme=radical&hide_border=true&locale=pt-br&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=if-Kaliel&theme=radical&hide_border=true&locale=pt-br&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeanitelli&layout=compact&theme=radical&hide_border=true&langs_count=8&locale=pt-br" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermeanitelli&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guilhermeanitelli&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=if-Kaliel&layout=compact&theme=radical&hide_border=true&langs_count=8&locale=pt-br" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=if-Kaliel&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -82,8 +76,8 @@ class KalielAquino:
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Anitelli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaliel-aquino-a034332b6/)
-[![GitHub](https://img.shields.io/badge/GitHub-GuilhermeAnitelli-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/If-Kaliel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaliel_Aquino-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaliel-aquino-a034332b6/)
+[![GitHub](https://img.shields.io/badge/GitHub-KalielAquino-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/If-Kaliel)
 [![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaliel.aquino1303@gmail.com)
 
 </div>
